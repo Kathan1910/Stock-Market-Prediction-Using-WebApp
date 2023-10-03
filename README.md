@@ -48,8 +48,9 @@ We've developed a Streamlit web app where users can:
 - Choose a date range.
 - View the predicted stock prices for the selected date range.
 
-![Prediction Image 1](1.png)
-![Prediction Image 2](2.png)
+<img src="images/1.png" alt="workflow" width="70%">
+
+<img src="images/2.png" alt="workflow" width="70%">
 
 ## Usage
 1. Clone the repository.
